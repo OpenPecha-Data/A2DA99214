@@ -1,0 +1,22 @@
+id: A2DA99214
+title: Toh_100-The_Ornament_of_the_Light_of_Awareness-v1
+type: translation
+pechas:
+- I22D20488
+- I805B61E0
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:32:26.672Z'
+  creationid: celso
+  eft-text-id: UT22084-047-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_100-The_Ornament_of_the_Light_of_Awareness-v1
+alignment_to_base:
+  I22D20488/44F0: '4504'
+  I805B61E0/9BB1: '4504'
